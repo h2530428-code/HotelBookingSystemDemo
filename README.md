@@ -66,38 +66,7 @@ Technologies Used
 - Linux (Ubuntu/WSL) – Development and execution environment.
 - Git – Version control.
 - GitHub – Collaborative development and project management.
-- Text Files – Data storage.
-
-Project Structure
-
-HotelBookingSystem/
-│
-├── main.sh
-│
-├── modules/
-│   ├── room_management.sh
-│   ├── customer_management.sh
-│   ├── booking_management.sh
-│   ├── checkin_checkout.sh
-│   ├── billing.sh
-│   ├── reports.sh
-│   └── validation.sh
-│
-├── database/
-│   ├── rooms.txt
-│   ├── customers.txt
-│   ├── bookings.txt
-│   └── payments.txt
-│
-├── invoices/
-│
-├── logs/
-│   └── system.log
-│
-├── tests/
-│
-├── README.md
-└── .gitignore
+- Text Files – Data storage.i:wq
 
 Prerequisites
 
